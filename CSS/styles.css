@@ -15,10 +15,10 @@ a {
 
 .logo {
  color:#4D5AE5;
- font-family: Raleway;
+ font-family: Raleway, sans serif;
  font-size: 18px;
  font-weight: 700;
- line-height: 21px; 
+ line-height: 1.17; 
  letter-spacing: 0.54px;
  text-transform: uppercase;
 }
@@ -64,12 +64,12 @@ a {
   background-color:#2E2F42;
 }
 
-.h1-hero-section {
+.heading-hero-section {
   color:#fff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px; 
+  line-height: 1.07px; 
   letter-spacing: 1.12px;
 }
 
