@@ -15,7 +15,7 @@ a {
 
 .logo {
  color:#4D5AE5;
- font-family: "Raleway", sans serif;
+ font-family: "Raleway", sans-serif;
  font-size: 18px;
  font-weight: 700;
  line-height: 1.17; 
@@ -75,16 +75,7 @@ a {
 
 .button {
   cursor:pointer;
-
-  display: inline-flex;
-  padding: 16px 32px;
-  align-items: flex-start;
-  gap: 10px;
-
-  border-radius: 4px;
   background-color:#4D5AE5;
-  box-shadow:0 4px 4px 0;
-
   color: #FFFFFF;
   font-family: inherit;
   font-size: 16px;
@@ -118,7 +109,7 @@ a {
   letter-spacing: 0.32px;
   text-transform: capitalize 
 }
-.our-team-list {
+.our-team {
   background-color: #FFFFFF;
 }
 .heading-two {
@@ -128,6 +119,7 @@ a {
   font-weight: 700;
   line-height: 1.11; 
   letter-spacing: 0.72px;
+  text-transform: capitalize;
 }
 
 .page-footer {
