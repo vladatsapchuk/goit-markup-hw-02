@@ -19,7 +19,7 @@ a {
  font-size: 18px;
  font-weight: 700;
  line-height: 1.17; 
- letter-spacing: 0.54px;
+ letter-spacing: 0.03em;
  text-transform: uppercase;
 }
 
@@ -85,7 +85,7 @@ a {
   background-color:#4D5AE5;
   box-shadow:0 4px 4px 0;
 
-  color: #FFF;;
+  color: #FFFFFF;;
   font-family: inherit
   font-size: 16px;
   font-weight: 500;
@@ -106,7 +106,7 @@ a {
   letter-spacing: 0.4px;
 }
 .our-team {
-  background-color: #F4F4FD  ;
+  background-color:#F4F4FD;
 }
 .features-item p,
 .our-team-member p,
