@@ -100,6 +100,10 @@ a {
 .our-team {
   background-color:#F4F4FD;
 }
+
+.our-team-text our-team-bg {
+  background-color: #FFFFFF ;
+}
 .features-text,
 .our-team-text,
 .our-portfolio-text {
@@ -110,7 +114,7 @@ a {
   text-transform: capitalize 
 }
 .our-team {
-  background-color: #FFFFFF;
+  background-color:#F4F4FD;
 }
 .heading-two {
   color:#2E2F42;
