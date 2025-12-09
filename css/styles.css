@@ -15,7 +15,7 @@ a {
 
 .logo {
  color:#4D5AE5;
- font-family: Raleway, sans serif;
+ font-family: "Raleway", sans serif;
  font-size: 18px;
  font-weight: 700;
  line-height: 1.17; 
@@ -85,15 +85,16 @@ a {
   background-color:#4D5AE5;
   box-shadow:0 4px 4px 0;
 
-  color: #FFFFFF;;
-  font-family: inherit
+  color: #FFFFFF;
+  font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px; 
   letter-spacing: 0.64px;
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
   background-color:#404BBF;
 }
 
@@ -108,9 +109,9 @@ a {
 .our-team {
   background-color:#F4F4FD;
 }
-.features-item p,
-.our-team-member p,
-.our-portfolio p {
+.features-text,
+.our-team-text,
+.our-portfolio-text {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
